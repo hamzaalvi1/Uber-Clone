@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     mainWrapper: {
       flex: 1,
       backgroundColor:"#0D1724",
-      justifyContent:"space-around",
+      justifyContent:"space-between",
       alignItems:"center"
       },
       backgroundLayer:{
@@ -85,7 +85,8 @@ const styles = StyleSheet.create({
         display:'flex',
         justifyContent:"center",
         alignItems:"center",
-        borderRadius:10
+        borderRadius:10,
+        marginBottom: 20
       }
   });
 

@@ -22,7 +22,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#FFFFFF",
+        "config" : {
+          "googleMapsApiKey" : "AIzaSyAReBwDg18pHRjxh2NZzIoVc0Wyhi86Oxw"
+        }
       }
     },
     "web": {
