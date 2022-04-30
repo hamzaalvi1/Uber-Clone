@@ -15,7 +15,7 @@ export default function App() {
     <View  style={styles.container}>
       <StatusBar style="auto" />
 
-      <Map/>
+      <SplashScreen/>
     </View >
     </SafeAreaProvider>
   );
